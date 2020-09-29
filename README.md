@@ -3,7 +3,7 @@
 
 <br/>
 
-## [About me](https://yebink.com/about) 🚀
+## About me 🚀
 
 - 🔭 I’m currently working on `@woowacourse`
 - 👀 Pronouns: `self-motivated 🤓` `collaborative 👣` `steady 🏋️`
@@ -11,6 +11,7 @@
 
 <br/>
 
+### Here is my [resume](https://yebink.com/about)! 🖥
 
 <!--
 **YebinK/yebink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
