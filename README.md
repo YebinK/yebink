@@ -1,8 +1,3 @@
-## Hi there 👋  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yebink&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 ### Here is my [resume](https://yebink.com/about) 🚀
 
 <!--
